@@ -1,6 +1,6 @@
 The following files are the submission for the Likely to Default on Loan
 Data for the this project are in the folder.  These folder are not sync to github because of their size
-D:\springboard\DataScienceGuidedCapstone\CapStone\DataCapstoneProject2\ccFraudDefault
+D:\springboard\DataScienceGuidedCapstone\CapStone\DataCapstoneProject2\ccFraudDefault\
 
 Original Data:		application_data.csv
 Data Dictionary: 	columns_description.xlsx
