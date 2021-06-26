@@ -1,0 +1,38 @@
+11.5 Case Study - Frequentist Inference: A and 
+	sample size 50
+	sqrt 50
+	
+	rerun after cell 31
+	answer q 13 cdf and manual result  question 11  redo
+	
+	Q 15 margin error.
+	I have 116 margin of error.   redo
+	
+	resubmit  6/26
+
+15.2 Case Study - Calculating Distances  waiting on response 
+
+15.6 Case Study - Customer Segmentation using Clustering: K-means  comment on video 
+time 32:07, Video-20210622_053059-Meeting Recording.mp4
+
+21.2 Building Your Own Issue Tree  waiting on response 
+
+
+21.2 Create an Issue Tree for Monalco Mining  waiting on response 
+
+
+21.4 Complete a Value Driver Tree for Monalco Mining  waiting on response 
+
+
+EDA
+
+
+
+Building Your Own Issue Tree
+
+Create an Issue Tree for Monalco Mining
+
+Complete a Value Driver Tree for Monalco Mining
+
+
+marketing_sample_for_careerbuilder_usa-careerbuilder_job_listing__20200401_20200630__30k_data.ldjson
